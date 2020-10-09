@@ -99,6 +99,16 @@ section{
 
 }
 
+h1 {
+    width: 100%;
+    display: inline;
+    color:  grey;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 22pt;
+
+}
+
 .millions, .HD, .stream {
 
     padding-top: 3cm;
@@ -154,17 +164,12 @@ section p {
 
 
 }
-.greenbox {
-
-
-
-}
 
 .greenbox h1 {
 
     color:  white;
     font-family: sans-serif;
-    font-weight: lighter;
+    font-weight: bolder;
     font-size: 22pt;
 
 }
@@ -188,7 +193,9 @@ section p {
 .logowhite {
 
     position: relative;
-    height: 90px;
+    align-self: center;
+    margin-right: 2cm;
+    height: 100px;
 }
 
 .screen {
